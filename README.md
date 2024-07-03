@@ -1,2 +1,3 @@
 # lilMSG
-a centralized, local-key encrypted messenger with support for cloud encrypted message storage, even with custom servers
+a centralized, local custom or randomized 32 digit numeric pin messenger software
+summer project ig
